@@ -1633,3 +1633,5 @@ extern "C" void *clearWindow(struct Application window){
     #elif _GRAPHICS_PLATFORM_WIN32
     #endif
 };
+
+// Copyright Unknown People Inc.
